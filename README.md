@@ -1,11 +1,5 @@
 # Customer Churn Intelligence
 
-An end-to-end Machine Learning application that predicts customer churn probability using customer demographics, service subscriptions, account information, and billing data.
-
-The project focuses on the complete ML lifecycle—from data analysis and feature engineering to model explainability and deployment—while translating predictions into actionable business insights.
-
----
-
 ## Overview
 
 Customer retention is one of the most important growth levers for subscription-based businesses. Acquiring a new customer is often significantly more expensive than retaining an existing one.
@@ -21,13 +15,6 @@ Key highlights:
 - Threshold optimization
 - Model explainability with SHAP
 - Interactive Streamlit deployment
-
----
-
-## Live Demo
-
-### Streamlit Application
-🔗 
 
 ---
 
